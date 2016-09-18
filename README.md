@@ -15,5 +15,5 @@ using this **form builder** you will be able to create many type of online forms
 
 lets start building online forms without writing code, and without any cloud storage!
 
-<a href="https://formtitan.com">form builder</a>
+powered by FormTitan <a href="https://formtitan.com">form builder</a>
 
